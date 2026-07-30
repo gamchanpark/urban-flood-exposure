@@ -3,6 +3,8 @@
 One identical open-satellite method applied to three cities on three continents,
 to estimate what share of each city's population lives on flood-prone low-lying land.
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21711394.svg)](https://doi.org/10.5281/zenodo.21711394)
+
 **Author:** Gamchan Park · Independent Researcher
 **Status:** flood-exposure analysis complete with sensitivity validation
 **License:** MIT (code) · CC BY 4.0 (figures and text)
